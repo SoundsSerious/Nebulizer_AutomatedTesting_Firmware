@@ -2,6 +2,7 @@
 -IC:/Users/Sup/Ottermatics Dropbox/Projects/MONQ/Public/Electronics/Nebulizer_AutomatedTesting_Firmware/src
 -IC:/Users/Sup/.platformio/lib/ESP32 AnalogWrite_ID5819/src
 -IC:/Users/Sup/Ottermatics Dropbox/Projects/MONQ/Public/Electronics/Nebulizer_AutomatedTesting_Firmware/lib/arduino-sps
+-IC:/Users/Sup/.platformio/lib/SimpleKalmanFilter_ID2904/src
 -IC:/Users/Sup/.platformio/lib/Adafruit MAX31855 library_ID84
 -IC:/Users/Sup/.platformio/lib/LiquidCrystal_ID136
 -IC:/Users/Sup/.platformio/lib/Adafruit BusIO_ID6214
@@ -75,7 +76,6 @@
 -IC:/Users/Sup/.platformio/lib/ESP32 BLE Arduino_ID1841/src
 -IC:/Users/Sup/.platformio/lib/Sensirion SPS30 Arduino Library_ID6296/src
 -IC:/Users/Sup/.platformio/lib/SimpleButton_ID5608/src
--IC:/Users/Sup/.platformio/lib/SimpleKalmanFilter_ID2904/src
 -IC:/Users/Sup/.platformio/lib/StepperDriver_ID1272/src
 -IC:/Users/Sup/.platformio/lib/TaskScheduler_ID721/src
 -IC:/Users/Sup/.platformio/lib/painlessMesh_ID1269/src

@@ -12,8 +12,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "/Users/kevinrussell/Ottermatics Dropbox/Projects/MONQ/Public/Electronics/Nebulizer_AutomatedTesting_Firmware/.pio/build/esp32thing/firmware.elf",
-            "toolchainBinDir": "/Users/kevinrussell/.platformio/packages/toolchain-xtensa32/bin",
+            "executable": "c:/Users/Sup/Ottermatics Dropbox/Projects/MONQ/Public/Electronics/Nebulizer_AutomatedTesting_Firmware/.pio/build/esp32thing/firmware.elf",
+            "toolchainBinDir": "C:/Users/Sup/.platformio/packages/toolchain-xtensa32/bin",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug"
@@ -24,8 +24,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "/Users/kevinrussell/Ottermatics Dropbox/Projects/MONQ/Public/Electronics/Nebulizer_AutomatedTesting_Firmware/.pio/build/esp32thing/firmware.elf",
-            "toolchainBinDir": "/Users/kevinrussell/.platformio/packages/toolchain-xtensa32/bin",
+            "executable": "c:/Users/Sup/Ottermatics Dropbox/Projects/MONQ/Public/Electronics/Nebulizer_AutomatedTesting_Firmware/.pio/build/esp32thing/firmware.elf",
+            "toolchainBinDir": "C:/Users/Sup/.platformio/packages/toolchain-xtensa32/bin",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]

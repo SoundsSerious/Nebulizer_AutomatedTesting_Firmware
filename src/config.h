@@ -20,7 +20,7 @@
 #define V_OUT_FB_PIN 35
 
 #define HEATER_CH 11
-#define FANS_CH 12
+#define VACFANS_CH 12
 #define CLEARFAN_CH 13
 
 
